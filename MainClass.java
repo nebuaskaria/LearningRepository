@@ -5,6 +5,5 @@ public static void main (){
 	
 	Stash Stage 1
 	
-	only adding this in to the feature branch
-	testing the amend feature also
+	WANT TO REMOVE THIS FEATURE LATER:
 }
